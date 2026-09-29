@@ -227,12 +227,20 @@ Developing:
 
 # Applied Projects
 
-| Project | Area | Technologies |
+| Project | What it demonstrates | Status |
 |---|---|---|
-| Cross-Border Payments Analytics | FinTech / Data | Python, Pandas |
-| Smart Clinic Management System | Software Engineering | Java, SQL |
-| HawkerGo | Web / Product | JavaScript, HTML, CSS |
-| Guitar Tab Composer | Software Development | JavaScript |
+| [PayFlow](payflow/) | Java/Spring Boot payment API, PostgreSQL transactions, idempotency and balanced transfer ledger | V1 implemented |
+
+PayFlow is a simulated learning project. Its demo opening balances are not ledger funded, and it is not a real payment service. See its [README](payflow/README.md) for the implementation and next milestones.
+
+## Project Roadmap
+
+| Idea | Learning focus | Status |
+|---|---|---|
+| FraudLens | Transaction risk rules and ML model evaluation | Planned |
+| FinStream | Financial data ingestion and processing | Planned |
+| FXRoute | Cross-border routing and algorithms | Planned |
+| FinRisk | Portfolio statistics and risk analysis | Planned |
 
 ---
 
