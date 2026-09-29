@@ -2,7 +2,7 @@
 
 A learning project that simulates account-to-account payments in SGD. It is **not a real payment service** and holds no real money.
 
-## V1 features
+## Current features
 
 - Create accounts with a demo opening balance and read balances.
 - Transfer funds atomically between two accounts.
