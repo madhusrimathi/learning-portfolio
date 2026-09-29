@@ -157,6 +157,34 @@ this repository will document my learning in areas including:
 # Professional Certifications
 
 ## Completed
+### Databases and SQL for Data Science with Python
+**IBM · Coursera | Sep 2026**
+
+**SQL · Databases · Data Analysis**
+
+- Relational database fundamentals
+- SQL queries
+- Joins
+- Subqueries
+- Aggregate functions
+- Data querying and manipulation
+- SQLite
+- Integrating SQL with Python
+- Integrating SQL with Pandas
+
+**Applied Learning**
+- Queried and analysed structured datasets using SQL
+- Connected SQL-based workflows with Python and Pandas
+
+### Financial Modelling in Decision-Making
+**Alison | Feb 2026**
+
+**Finance · Quantitative Decision-Making**
+
+- Financial modelling
+- Forecasting
+- Scenario analysis
+- Data-driven decision-making
 
 ### IBM Java Developer Professional Certificate
 **IBM · Coursera**
