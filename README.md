@@ -229,9 +229,9 @@ Developing:
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| [PayFlow](payflow/) | Java/Spring Boot payment API, PostgreSQL transactions, idempotency and balanced transfer ledger | Implemented |
+| [PayFlow](https://github.com/madhusrimathi/Pay-Flow) | Java/Spring Boot payment API, PostgreSQL transactions, idempotency and balanced transfer ledger | Implemented |
 
-PayFlow is a simulated learning project. Its demo opening balances are not ledger funded, and it is not a real payment service. See its [README](payflow/README.md) for the implementation and next milestones.
+PayFlow is a simulated learning project. Its demo opening balances are not ledger funded, and it is not a real payment service. See its [README](https://github.com/madhusrimathi/Pay-Flow#readme) for the implementation and next milestones.
 
 ## Project Roadmap
 
