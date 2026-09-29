@@ -237,7 +237,7 @@ PayFlow is a simulated learning project. Its demo opening balances are not ledge
 
 | Idea | Learning focus | Status |
 |---|---|---|
-| FraudLens | Transaction risk rules and ML model evaluation | Planned |
+| [FraudLens](https://github.com/madhusrimathi/FraudLens) | Explainable transaction review rules; ML evaluation planned | In development |
 | FinStream | Financial data ingestion and processing | Planned |
 | FXRoute | Cross-border routing and algorithms | Planned |
 | FinRisk | Portfolio statistics and risk analysis | Planned |
